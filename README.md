@@ -11,9 +11,8 @@
 ## Mobile Apps
 
 + Facebook Login
-+ ASO
-+ Mobile Marketing
 + Geolocalização
++ Salvar e sincronizar a lista de compras
 
 ## Firebase Features
 
