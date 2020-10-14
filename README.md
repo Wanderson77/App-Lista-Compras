@@ -13,6 +13,7 @@
 + Facebook Login
 + Geolocalização
 + Salvar e sincronizar a lista de compras
++ Relatórios de performance { acessos, cliques, desistência do carrinho e venda dos produtos disponíveis}
 
 ## Firebase Features
 
