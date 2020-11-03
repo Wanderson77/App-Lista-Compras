@@ -13,15 +13,17 @@
 + Facebook Login
 + Geolocalização
 + Salvar e sincronizar a lista de compras
-+ Relatórios de performance { acessos, cliques, desistência do carrinho e venda dos produtos disponíveis}
++ Relatórios Analíticos { acessos, cliques, desistência do carrinho e venda dos produtos disponíveis}
 
 ## Firebase Features
 
 + Authentication
-+ RealTime db
++ RealTime / Firestore db
 + Analytics
 + Cloud Messaging
 + Storage
++ Hosting
++ Notifications
 + AdMob
 
 ## Dev Tools Experience
