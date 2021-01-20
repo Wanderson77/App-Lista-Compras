@@ -29,13 +29,20 @@
 + Notifications
 + AdMob
 
-## Dev Tools Experience
+## Dev Tools Experience (Featuring)
 
 + VSCode
++ TypeScript / JS
++ AirBnB styles + Prettier
++ Components Class / Hooks
 + Figma
 + Storybook
++ Jest / Enzime
 + Material UI
-+ TypeScript
++ TDD / Jest / Enzime
++ Hooks
++ Recoil (State Management)
++ ServerLess
 
 ## Monetização
 
