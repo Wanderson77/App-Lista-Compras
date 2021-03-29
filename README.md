@@ -1,4 +1,4 @@
-# App Demo :+1:
+# App Demo :+1
 
 > O app permite acompanhar noticias, gráficos de cotações, entre outros recursos.
 >
@@ -29,20 +29,15 @@
 + Notifications
 + AdMob
 
-## Dev Tools Experience (Featuring)
+## Dev Tools Experience (Feat)
 
++ TypeScript | JavaScript
 + VSCode
-+ TypeScript / JS
-+ AirBnB styles + Prettier
-+ Components Class / Hooks
-+ Figma
-+ Storybook
-+ Jest / Enzime
-+ Material UI
-+ TDD / Jest / Enzime
-+ Hooks
-+ Recoil (State Management)
++ CI | CD (App Center / GitHub Actions)
++ Docker | Kubernetes
 + ServerLess
++ Insomnia | Postman
++ GraphQL
 
 ## Monetização
 
